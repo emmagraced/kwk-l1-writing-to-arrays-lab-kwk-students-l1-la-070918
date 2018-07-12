@@ -12,8 +12,8 @@ def change_rainbow_colors
   "light_cyan"
 ]
 puts rainbow_colors[0]="red"
-puts rainbow_colors[1]="light red"
-puts rainbow_colors[2]="light yellow"
+puts rainbow_colors[1]="light_red"
+puts rainbow_colors[2]="light_yellow"
 return rainbow_colors
 end
 # puts change_rainbow_colors
